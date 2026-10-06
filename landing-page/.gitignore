@@ -1,3 +1,5 @@
 .env-local
 *.log
 node-modules/
+Thumbs.db
+desktop.ini
