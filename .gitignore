@@ -1,5 +1,5 @@
 .env-local
 *.log
-node-modules/
+node_modules/
 Thumbs.db
 desktop.ini
